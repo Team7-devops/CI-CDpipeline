@@ -1,3 +1,15 @@
-<h1> DevOps Project </h1>
-<h2> Maven Project deploying on Docker Server</h2>
-<h3> Using Jenkins CICD Pipeline</h3>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>MSc DevOps Group</title>
+</head>
+<body bgcolor="#ffffff">
+<body>
+<center>
+    <h1> DevOps project With Team7 </h1>
+    <h2> Using Git hub, Jenking, Maven, Docker</h2>
+    <h3> Jenkins CICD Pipeline</h3>
+</center>
+</body>
+</html>
