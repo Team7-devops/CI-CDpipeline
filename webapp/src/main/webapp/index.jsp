@@ -6,10 +6,10 @@
 </head>
 <body bgcolor="#ffffff">
 <body>
-<center>
+#<center>
     <h1> DevOps project With Team7 </h1>
     <h2> Using Git hub, Jenking, Maven, Docker</h2>
     <h3> Jenkins CICD Pipeline</h3>
-</center>
+#</center>
 </body>
 </html>
