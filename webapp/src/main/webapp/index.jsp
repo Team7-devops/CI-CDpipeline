@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <title>MSc DevOps Group</title>
 </head>
-<body bgcolor="#000080">
+<body bgcolor="#ffffff">
 <body>
 <style>
     .myTable3 { 
