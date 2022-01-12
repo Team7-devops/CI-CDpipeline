@@ -13,7 +13,7 @@
           border-style: double;
           }
         </style></head>
-<body bgcolor="#008080">
+<body bgcolor="#C0C0C0">
 <body>
 <center>
     <h1>DevOps Project on CI/CD Pipeline</h1>
