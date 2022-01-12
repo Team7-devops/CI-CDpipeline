@@ -3,19 +3,18 @@
 <head>
     <meta charset="UTF-8">
     <title>MSc DevOps Group</title>
-</head>
+    <style>
+        .myTable3 { 
+          width:100%;
+          text-align: left;
+          background-color: rgba(237, 245, 17, 0.701);
+          border: 10px solid rgb(26, 229, 33);
+          border-radius: 5px;
+          border-style: double;
+          }
+        </style></head>
 <body bgcolor="#ffffff">
 <body>
-<style>
-    .myTable3 { 
-      width:100%;
-      text-align: left;
-      background-color: rgba(237, 245, 17, 0.701);
-      border: 10px solid rgb(26, 229, 33);
-      border-radius: 5px;
-      border-style: double;
-      }
-    </style>
 <center>
     <h1> DevOps project With Team7 Bolton University </h1>
     <h2> Using Git hub, Jenking, Maven, Docker</h2>
@@ -23,7 +22,7 @@
         This project generates a CI/CD Pipeline which means Continuous Integration-Continuous Deployment. With the help of Maven, code building will be performed and uploaded to version control system which will be achieved using GitHub account. Moreover, with the help of Jenkins, Continuous Integration will be carried out at each stage. Simultaneously, to achieve Continuous Deployment, Docker will be implemented for containerization and Apache Tomcat server integrates Docker image with code build and produce the output. 
         The whole project work will be done as a team. Team members will collaborate with each other for smooth induction of the project. Here’s the introduction to the team members as Team-7:
         </p>
-    <table border="1" style="width:100%" class="myTable3;">
+    <table border="1" style="width:100%" class="myTable3">
         <tr>DevOps Team-7</tr>
         <tr>
             <td>Student Name</td>
