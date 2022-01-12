@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <title>MSc DevOps Group</title>
 </head>
-<body bgcolor="#4682B4">
+<body bgcolor="#BC8F8F">
 <body>
     <!-- CSS -->
 <style>
