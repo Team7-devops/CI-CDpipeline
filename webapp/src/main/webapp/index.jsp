@@ -4,9 +4,8 @@
     <meta charset="UTF-8">
     <title>MSc DevOps Group</title>
 </head>
-<body bgcolor="#BC8F8F">
+<body bgcolor="#000080">
 <body>
-    <!-- CSS -->
 <style>
     .myTable3 { 
       width:100%;
