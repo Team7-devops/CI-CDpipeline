@@ -8,7 +8,7 @@
           width:60%;
           text-align: left;
           background-color: rgba(237, 245, 17, 0.701);
-          border: 10px solid rgb(26, 229, 33);
+          border: 10px solid rgb(15, 15, 240);
           border-radius: 5px;
           border-style: double;
           }
@@ -29,7 +29,7 @@
         <tr>
             <td>Student Name</td>
             <td>Student ID</td>
-            <td>University Email ID</td>
+            <td>University Email-ID</td>
         </tr>
         <tr>
             <td>Neha Bhardwaj</td>
@@ -53,7 +53,7 @@
             <td>Eoo1crt@bolton.ac.uk</td>
         </tr> 
       </table>
-    <h3>Real-Time Project Execution by Team-7</h3>
+    <h3>Real-Time CI/CD Project Execution by Team-7</h3>
 </center>
 </body>
 </html>
