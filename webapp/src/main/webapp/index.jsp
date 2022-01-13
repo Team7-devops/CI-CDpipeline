@@ -29,7 +29,7 @@
         <tr>
             <td>Student Name</td>
             <td>Student ID</td>
-            <td>University Email-ID</td>
+            <td>University Email ID</td>
         </tr>
         <tr>
             <td>Neha Bhardwaj</td>
