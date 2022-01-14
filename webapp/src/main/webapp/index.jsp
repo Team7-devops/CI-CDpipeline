@@ -10,7 +10,7 @@
           background-color: rgba(237, 245, 17, 0.701);
           border: 10px solid rgb(15, 15, 240);
           border-radius: 5px;
-          border-style: dotted;
+          border-style: double;
           }
         </style></head>
 <body bgcolor="#C0C0C0">
@@ -19,7 +19,7 @@
     <h1>DevOps Project on CI-CD Pipeline</h1>
     <h2> Using Git hub, Jenking, Maven, Docker</h2>
     <h3>Submitted to: Ms. Anchal Garg</h3>
-    <h4>Submitted by: Team-7</h4>
+    <h4>Submitted by: Team-7 DevOps</h4>
     <p>DevOps serves as a solution for IT industries by acting as an intermediate to run Continuous Integration and Continuous Deployment. Integration between the Build phase and Deployment phase will take place in collaboration with Build phase.
         This project generates a CI/CD Pipeline which means Continuous Integration-Continuous Deployment. With the help of Maven, code building will be performed and uploaded to version control system which will be achieved using GitHub account. Moreover, with the help of Jenkins, Continuous Integration will be carried out at each stage. Simultaneously, to achieve Continuous Deployment, Docker will be implemented for containerization and Apache Tomcat server integrates Docker image with code build and produce the output. 
         The whole project work will be done as a team. Team members will collaborate with each other for smooth induction of the project. Here’s the introduction to the team members as Team-7:
